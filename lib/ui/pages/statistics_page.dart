@@ -28,6 +28,11 @@ class _StatisticsState extends State<Statistics> {
     _openDirectory();
   }
 
+  _clearStates() async {
+    await _file.writeAsString(''); // случай перезаписи файла
+    setState(() {});
+  }
+
   _openDirectory() async {
     try {
       _directory = await getApplicationDocumentsDirectory();
@@ -51,7 +56,16 @@ class _StatisticsState extends State<Statistics> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(widget.title)),
+      appBar: AppBar(
+        title: Text(widget.title),
+        actions: <Widget>[
+          InkWell(
+            child:
+                Container(child: Icon(Res.iconDeleteDate, size: 30), width: 55),
+            onTap: () => {_clearStates()},
+          ),
+        ],
+      ),
       body: Center(
         child: Column(
           children: [

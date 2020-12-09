@@ -43,7 +43,6 @@ class GamePageState extends State<GamePage> {
   void initState() {
     super.initState();
     _initialize();
-
     _openDirectory();
   }
 
@@ -54,7 +53,7 @@ class GamePageState extends State<GamePage> {
     int y = (field_size - 1) ~/ 2, x = (field_size + 1) ~/ 2;
     _board[y][y] = R;
     _board[y][x] = B;
-    _board[x][y] = R;
+    _board[x][y] = B;
     _board[x][x] = R;
     _score = {B: 2, R: 2};
     _info = Res.newGame;

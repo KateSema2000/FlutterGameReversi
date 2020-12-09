@@ -26,6 +26,7 @@ class Res {
   static const Color borderColor = Colors.grey;
   static const Color textColor = Colors.white;
   // строка счета
+  static const iconDeleteDate = Icons.delete_forever;
   static const iconReGame = Icons.autorenew;
   static const iconPlayer= Icons.account_circle_rounded;
   static const iconBot = Icons.adb_rounded;
