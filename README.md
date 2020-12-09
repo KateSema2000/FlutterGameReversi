@@ -1,16 +1,8 @@
-# Lines
+Проект по Flutter: "Игра Reversi"
+==========================================
+**Тема:** одиночная игра Реверси (Отелло).
 
-A new Flutter project.
+**Используемое ПО:** для создания приложения использую возможности языка Dart с использованием IntelliJ IDEA.
 
-## Getting Started
+**Предполагаемые функции программы:** На поле размером 8x8 поставлены по две фишки двух игроков. Задача игрока состоит в том что бы поставить фишку своего цвета рядом с фишкой противник, что бы по горизонтали, вертикали, диагонали была замыкающая фишка нашего цвета, в таком случае по этим осям заключенные фишки противника, перевернутся и станут нашего цвета. Победитель тот, кто соберет большее количество фишек, когда поле закончится. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
