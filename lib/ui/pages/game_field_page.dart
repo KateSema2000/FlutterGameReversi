@@ -4,7 +4,7 @@ import 'package:intl/intl.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:Lines/resources/constants.dart';
+import 'package:Reversi/resources/constants.dart';
 
 const int field_size = Res.field_size;
 const int B = 1;

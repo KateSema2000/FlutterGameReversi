@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:Lines/resources/constants.dart';
+import 'package:Reversi/resources/constants.dart';
 
 class Statistics extends StatefulWidget {
   final String title;

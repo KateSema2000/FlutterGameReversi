@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:Lines/resources/constants.dart';
+import 'package:Reversi/resources/constants.dart';
 
 class HowToPlay extends StatelessWidget {
   final String title;

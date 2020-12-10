@@ -1,4 +1,4 @@
-import 'package:Lines/my_app.dart';
+import 'package:Reversi/my_app.dart';
 import 'package:flutter/material.dart';
 
 void main() {

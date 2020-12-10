@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'game_field_page.dart';
-import 'package:Lines/ui/pages/test.dart';
-import 'package:Lines/ui/pages/page_how_to_play.dart';
-import 'package:Lines/ui/pages/statistics_page.dart';
-import 'package:Lines/resources/constants.dart';
+import 'package:Reversi/ui/pages/test.dart';
+import 'package:Reversi/ui/pages/page_how_to_play.dart';
+import 'package:Reversi/ui/pages/statistics_page.dart';
+import 'package:Reversi/resources/constants.dart';
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
