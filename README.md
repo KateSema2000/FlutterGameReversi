@@ -8,20 +8,20 @@
 
 **Главное меню**
 
-![img1](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/photo_1.jpg)
+![img1](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)
 
 **Начало игры**
 
-![img2](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/photo_2.jpg)
+![img2](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-2.png)
 
 **В процессе игры**
 
-![img3](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/photo_3.jpg)
+![img3](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-3.png)
 
 **Описание как играть**
 
-![img4](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/photo_4.jpg)
+![img4](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-4.png)
 
 **История побед**
 
-![img5](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/photo_5.jpg)
+![img5](https://github.com/KateSema2000/FlutterGameReversi/blob/master/images/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-5.png)
